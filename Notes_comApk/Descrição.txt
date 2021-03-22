@@ -1,0 +1,1 @@
+Um aplicativo para guardar anotações com um banco de dados interno usando sqlite
